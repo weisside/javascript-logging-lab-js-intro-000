@@ -1,6 +1,6 @@
 const expect = require('expect')
 const fs = require('fs')
-const jsdom = require('jsdom')
+conconst jsdom = require('jsdom')
 const path = require('path')
 
 
